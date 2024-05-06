@@ -1,5 +1,4 @@
 # Curso de Desenvolvedor Python 80 horas
----
 
 ![alt text](python-banner-classroom.png)
 
@@ -8,7 +7,6 @@ Nesse repositório se encontram reunidos os Notebooks das aulas do curso de Pyth
 As turmas de 80 horas diunro terão 4 horas para cada aula, totalizando 20 aulas distribuídas por 4 semanas, enquanto as turmas do noturno terão 3 horas para cada aula, totalizando aproximadamente 27 aulas, distribuídas por aproximadamente 6 semanas. Dessa forma, o conteúdo de cada Notebook poderá ser redistribuído conforme necessidade, não havendo a necessidade de seguir à risca cada aula para cada Notebook.
 
 ## Aulas
----
 
 O sumário dos Notebooks das aulas se encontra listado logo abaixo:
 
@@ -109,6 +107,5 @@ O sumário dos Notebooks das aulas se encontra listado logo abaixo:
 - **Aula 27:** Encerramento.
 
 ## Sobre a utilização desses Notebooks para outros cursos de Python
----
 
 Como esses Notebooks são válidos para o curso mais básico de Python, ele também é válido para qualquer outro curso de Python com duração maior, pois ele tem toda a base necessária para qualquer projeto Python.
