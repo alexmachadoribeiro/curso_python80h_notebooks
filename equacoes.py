@@ -2,9 +2,7 @@
 import math
 
 # função que calcula equação do 1º grau
-def calcular_1_grau(a, b):
-    x = -b/a
-    return x
+calcular_1_grau = lambda a, b: -b/a
 
 # função que calcula equação do 2º grau
 def calcular_2_grau(a, b, c):
